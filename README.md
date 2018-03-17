@@ -10,6 +10,6 @@
 - Javascript
 - JQuery
 
-### Crystals Collector! Link
+### Trivia Game Link
 [Trivia Game](https://radhikabgupta.github.io/TriviaGame/)
 
